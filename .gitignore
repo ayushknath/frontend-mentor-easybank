@@ -1,0 +1,6 @@
+design/
+node_modules/
+input.css
+*.json
+*.md
+tailwind.config.js
